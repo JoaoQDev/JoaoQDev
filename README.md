@@ -20,6 +20,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Nest" height="30" width="40" src="https://nestjs.com/logo-small-gradient.76616405.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jest/jest-plain.svg">
 </div>

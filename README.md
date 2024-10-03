@@ -1,7 +1,6 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 João
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cabral-boop)
-[![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/cabral-boop)
 
 
 :computer: 𝘍𝘶𝘭𝘭𝘚𝘵𝘢𝘤𝘬 𝘥𝘦𝘷, 𝘶𝘴𝘪𝘯𝘨 React,Node.js & Nest.js

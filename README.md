@@ -1,6 +1,6 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 João
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cabral-boop)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoQDev)
 
 
 :computer: 𝘍𝘶𝘭𝘭𝘚𝘵𝘢𝘤𝘬 𝘥𝘦𝘷, 𝘶𝘴𝘪𝘯𝘨 React,Node.js & Nest.js
@@ -35,8 +35,8 @@
   
 ##
 <div align="center">
-  <a href="https://github.com/cabral-boop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cabral-boop&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabral-boop&layout=compact&theme=radical"/>
+  <a href="https://github.com/JoaoQDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoQDev&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoQDev&layout=compact&theme=radical"/>
 </div>
  

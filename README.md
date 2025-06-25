@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoQDev)
 
 
-:computer: 𝘍𝘶𝘭𝘭𝘚𝘵𝘢𝘤𝘬 𝘥𝘦𝘷, 𝘶𝘴𝘪𝘯𝘨 React,Node.js & Nest.js
+:computer: 𝘍𝘶𝘭𝘭𝘚𝘵𝘢𝘤𝘬 𝘥𝘦𝘷, 𝘶𝘴𝘪𝘯𝘨 Next.js & Nest.js
 
 :airplane: 𝘛𝘳𝘢𝘷𝘦𝘭𝘦𝘳
 
